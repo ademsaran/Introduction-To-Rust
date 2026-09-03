@@ -1,0 +1,1 @@
+/home/adem/projects/restaurant/target/debug/librestaurant.rlib: /home/adem/projects/restaurant/src/front_of_house/hosting.rs /home/adem/projects/restaurant/src/front_of_house.rs /home/adem/projects/restaurant/src/lib.rs
