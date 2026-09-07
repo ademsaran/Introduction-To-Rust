@@ -1,0 +1,1 @@
+C:\Users\AdemSaran\projects\Introduction-To-Rust\add\target\debug\adder.exe: C:\Users\AdemSaran\projects\Introduction-To-Rust\add\add_one\src\lib.rs C:\Users\AdemSaran\projects\Introduction-To-Rust\add\adder\src\main.rs
