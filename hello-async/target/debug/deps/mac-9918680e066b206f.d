@@ -1,0 +1,12 @@
+C:\Users\AdemSaran\projects\Introduction-To-Rust\hello-async\target\debug\deps\mac-9918680e066b206f.d: C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs
+
+C:\Users\AdemSaran\projects\Introduction-To-Rust\hello-async\target\debug\deps\libmac-9918680e066b206f.rmeta: C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs
+
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\lib.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\test.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\mem.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\format.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\syntax_ext.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\matches.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\inspect.rs:
+C:\Users\AdemSaran\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mac-0.1.1\src\cfg.rs:
